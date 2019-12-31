@@ -1,0 +1,8 @@
+.todoItem {
+    display: flex;
+    margin: 10px;
+}
+
+.todoItem p {
+    margin: 0 10px;
+}
